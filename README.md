@@ -1,3 +1,3 @@
-# web platform ovriwy
+# HTML List
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-dmxgwy)
